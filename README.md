@@ -1,6 +1,4 @@
-# Airline_Prediction
-
-# ✈️ Airline Revenue Optimization using Dynamic Programming & Simulation
+# Airline Prediction
 
 ## Overview
 
