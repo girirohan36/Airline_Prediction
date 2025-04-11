@@ -14,6 +14,8 @@ Maximize total profit across a 365-day booking window by:
 - Incorporating seasonality and behavioral probabilities into decisions.
 - Evaluating policies through simulation to understand trade-offs.
 
+![airline_optimization_resized](https://github.com/user-attachments/assets/836b46d7-855e-4321-b5a6-84cb8efcb8d2)
+
 
 ## Model Breakdown
 
