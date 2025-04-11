@@ -24,7 +24,6 @@ Maximize total profit across a 365-day booking window by:
   - Passenger show-up rates: 95% for coach, 97% for FC.
 - **Objective**: Maximize discounted revenue, accounting for overbooking costs.
 
----
 
 ## Key Features
 
