@@ -6,13 +6,6 @@ This project tackles the challenge of **airline ticket pricing and overbooking**
 
 By modeling ticket sales over a full year (365 days), this solution provides actionable insights on overbooking thresholds, customer no-shows, pricing strategies, and risk mitigation.
 
-### 📂 Files in This Repository
-- `Opti_Proj2_Q5_Completed.ipynb`: Main notebook with dynamic programming, simulation, and visual analysis.
-- `question_5_simulation_analysis.py`: Script for running forward simulations and comparative analysis.
-- `README.md`: Project documentation and execution guide.
-
----
-
 ## Objective
 
 Maximize total profit across a 365-day booking window by:
@@ -21,7 +14,6 @@ Maximize total profit across a 365-day booking window by:
 - Incorporating seasonality and behavioral probabilities into decisions.
 - Evaluating policies through simulation to understand trade-offs.
 
----
 
 ## Model Breakdown
 
@@ -56,15 +48,4 @@ Maximize total profit across a 365-day booking window by:
 - Reflects booking spikes near departure.
 - Captures its impact on overbooking decisions.
 
----
 
-## How to Run
-
-### 📘 Notebook
-Open `Opti_Proj2_Q5_Completed.ipynb` in Jupyter and execute all cells sequentially.
-
-### 🖥️ Script
-To run just the simulation logic:
-
-```bash
-python question_5_simulation_analysis.py
